@@ -9,6 +9,9 @@
 * YouTube [Demo【FOREST SOUNDS】](https://www.youtube.com/watch?v=qlhQRn4cVPc)
 * YouTube [Demo【FOREST SOUNDS】日本語版](https://www.youtube.com/watch?v=msS2McuqIUo)
 
+<a href="https://www.youtube.com/watch?v=qlhQRn4cVPc" target="_blank" rel="noopener noreferrer">
+Demo【FOREST SOUNDS】（YouTube）
+</a>
 ## ディレクトリ構成
 
 ```
