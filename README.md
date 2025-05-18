@@ -2,12 +2,12 @@
 
 ## 概要
 
-このリポジトリは、AI 語りを活用して「森林」をテーマにした効果音パックを生成し、そのプレビュー動画を自動生成するツール群をまとめたものです。生成したデモ動画は YouTube にアップロード済みです。
+このリポジトリは、AI 語りを活用して一定のテーマ（コードでは「森林」）に従った効果音パックを生成し、そのプレビュー動画を自動生成するツール群をまとめたものです。
 
 ## デモ動画
 
-* YouTube デモ: [FOREST SOUNDS](https://www.youtube.com/watch?v=qlhQRn4cVPc)
-* YouTube デモ 日本語版: [FOREST SOUNDS](https://www.youtube.com/watch?v=msS2McuqIUo)
+* YouTube [Demo【FOREST SOUNDS】](https://www.youtube.com/watch?v=qlhQRn4cVPc)
+* YouTube [Demo【FOREST SOUNDS】日本語版](https://www.youtube.com/watch?v=msS2McuqIUo)
 
 ## ディレクトリ構成
 
